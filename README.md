@@ -14,6 +14,7 @@ Through data analysis, we aim to address key railway business challenges, such a
 
 ✅ Customer Behavior Analysis – Identify trends in ticket purchases, railcard usage, and payment methods.
 
+
 Excel Techniques Used
 
 ✅ Pivot Tables & Pivot Charts
@@ -26,9 +27,11 @@ Excel Techniques Used
 
 ✅ Conditional Formatting
 
+
 Dashboard Components
 
 The Excel dashboard will include:
+
 📌 Pivot Charts for Top Routes – Most frequent, most canceled, and most delayed routes.
 
 📌 KPI Cards – Showing overall revenue, ticket sales, and performance metrics.
